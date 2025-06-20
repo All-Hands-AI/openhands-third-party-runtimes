@@ -2,6 +2,8 @@
 
 This repository contains the third-party runtime implementations that were removed from the main OpenHands repository. These runtimes provide integration with external platforms for code execution and development environments.
 
+**Note:** These are NOT officially supported by the OpenHands team.
+
 ## Included Runtimes
 
 ### 1. E2B Runtime

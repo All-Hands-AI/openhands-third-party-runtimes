@@ -79,5 +79,3 @@ For support with these third-party runtimes:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-These runtime implementations maintain the same license as the original OpenHands project.

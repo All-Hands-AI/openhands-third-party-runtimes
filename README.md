@@ -54,9 +54,10 @@ These third-party runtime implementations were moved out of the main OpenHands r
 To use these runtimes with OpenHands, you would need to:
 
 1. Copy the relevant runtime implementation back into your OpenHands installation
-2. Install any required dependencies for the specific runtime
-3. Configure the runtime according to its documentation
-4. Set up authentication with the respective third-party service
+2. Install any required dependencies for the specific runtime by modifying `pyproject.toml`
+3. Add the runtime to `openhands/runtime/__init__.py`
+4. Configure the runtime according to its documentation
+5. Set up authentication with the respective third-party service
 
 ## Contributing
 

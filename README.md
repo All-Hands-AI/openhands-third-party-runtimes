@@ -40,14 +40,13 @@ This repository contains the third-party runtime implementations that were remov
   - `README.md` - Daytona-specific documentation
 - **Documentation**: `docs/usage/runtimes/daytona.mdx`
 
-## Why Were These Moved?
+## Why are these separate from OpenHands itself?
 
 These third-party runtime implementations were moved out of the main OpenHands repository to:
 
 1. **Reduce maintenance burden** - Focus core development on the primary local and remote runtimes
 2. **Simplify dependencies** - Remove external service dependencies from the main codebase
-3. **Improve modularity** - Allow third-party integrations to evolve independently
-4. **Streamline CI/CD** - Reduce test complexity and build times for the main repository
+3. **Streamline CI/CD** - Reduce test complexity and build times for the main repository
 
 ## Usage
 
